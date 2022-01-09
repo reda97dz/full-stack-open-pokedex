@@ -34,3 +34,4 @@ jobs:
           heroku_app_name: "pokegex"
           heroku_email: "rbaka79@gmail.com"
           healthcheck: "https://pokegex.herokuapp.com/health"
+          checkstring: "ok"
