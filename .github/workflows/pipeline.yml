@@ -35,3 +35,4 @@ jobs:
           heroku_email: "rbaka79@gmail.com"
           healthcheck: "https://pokegex.herokuapp.com/health"
           checkstring: "ok"
+          rollbackonhealthcheckfailed: true
